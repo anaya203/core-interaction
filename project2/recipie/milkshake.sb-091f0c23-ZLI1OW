@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Smoothie Recipe</title>
+</head>
+
+<body>
+
+    <h1>How to Make a Strawberry Smoothie</h1>
+
+    <p>This is a simple recipe for a fresh strawberry smoothie.</p>
+
+    <h2>Ingredients</h2>
+
+    <ul>
+        <li>1 cup strawberries</li>
+        <li>1 banana</li>
+        <li>1/2 cup milk</li>
+        <li>1 teaspoon honey</li>
+        <li>Ice</li>
+    </ul>
+
+    <h2>Instructions</h2>
+
+    <ol>
+        <li>Wash the strawberries.</li>
+        <li>Cut the strawberries and banana into small pieces.</li>
+        <li>Put all the ingredients into a blender.</li>
+        <li>Blend until smooth.</li>
+        <li>Pour the smoothie into a glass.</li>
+        <li>Enjoy!</li>
+    </ol>
+
+</body>
+</html>
